@@ -1,0 +1,6 @@
+{
+  "name": "الوسيط الذكي - Hyper-Brain Mediator",
+  "description": "نظام وسيط ذكي متكامل مع معالجة حقيقية عبر API وتخزين أوزان الدماغ بـ 12 خوارزمية ومعالجة ذاتية 4 مراحل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
